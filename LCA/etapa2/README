@@ -1,0 +1,11 @@
+OLIVOTTO ALEXANDRA 325CD
+
+Arhiva contine implementarile in java a doi algoritmi de rezolvare a problemei celui mai mic 
+stramos comun. In folderul "etapa2" este implementarea algoritmului care foloseste pointeri 
+catre parinti. In folderul "etapa2-rmq" este implementarea care abordeaza probllema folosindu-se
+de "elementul minim dintr-un interval".Directorul "testgen" reprezinta generatorul de teste. 
+Fiind date un set de conditii: marimea arborelui (reprezentand numarul de noduri) si un interval
+in care sunt cuprinse valorile cheilor. In testele generate pe prima linie se afla numarul de
+noduri, nodurile propriu-zise si nodurile carora li se va calcula cel mai mic stramos comun.
+Acesta se regaseste in folderul fiecarei implementari, avand aceleasi teste. 
+
